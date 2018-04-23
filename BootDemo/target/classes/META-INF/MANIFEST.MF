@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: BootDemo
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: ManojKumar
+Implementation-Vendor-Id: org.SpringBoot.Demo
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/BootDemo/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
